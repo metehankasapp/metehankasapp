@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/metehan-kasap-a0b021203/](https://www.linkedin.com/in/metehan-kasap-a0b021203/)
 
-- ⚡ Fun fact **want to learn :3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
