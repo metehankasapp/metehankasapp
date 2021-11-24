@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Metehan Kasap</h1>
 <h3 align="center">Jr. Front End Developer</h3>
 
-- 🔭 I’m currently working on **cbutopluluk.com**
+- 🔭 I’m currently working on **mcbutopluluk.com**
 
 - 🌱 I’m currently learning **React.js**
 
