@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Metehan Kasap</h1>
 <h3 align="center">Front End Developer</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Shopify App Development,Node.js,MySql**
 
 - 👨‍💻 All of my projects are available at [https://metehannkasap.web.app](https://metehannkasap.web.app)
 
