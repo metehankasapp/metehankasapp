@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/metehan-kasap-a0b021203/](https://www.linkedin.com/in/metehan-kasap-a0b021203/)
 
-- ⚡ Fun fact **enjoy the inexorable pain**
+- ⚡ **enjoy the inexorable pain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
