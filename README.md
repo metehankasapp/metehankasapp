@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Metehan Kasap</h1>
-<h3 align="center">Front End Developer,Shopify App Developer</h3>
+<h3 align="center">Front End Shopify,Mobile Dev</h3>
 
 - 👨‍💻 All of my projects are available at [https://metehannkasap.web.app](https://metehannkasap.web.app)
 
